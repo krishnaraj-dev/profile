@@ -36426,12 +36426,12 @@ ol,
 .progress-list .ant-progress-inner {
   background: #e6e6e6; }
 
-#services-section .shadow [class^="icon-"] {
+#support-section .shadow [class^="icon-"] {
   background: -webkit-linear-gradient(90deg, black 0%, #3e64ff 50%, #3e64ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
-#services-section .shadow:hover {
+#support-section .shadow:hover {
   box-shadow: 0 0.5rem 1rem rgba(62, 100, 255, 0.29) !important; }
 
 .overlay:before {
